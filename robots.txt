@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://thamarafi1994-ship-it.github.io/thaynara-aspet-site/sitemap.xml
